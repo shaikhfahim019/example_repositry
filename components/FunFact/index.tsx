@@ -56,7 +56,7 @@ const FunFact = () => {
             className="animate_top mx-auto mb-12.5 px-4 text-center md:w-4/5 md:px-0 lg:mb-17.5 lg:w-2/3 xl:w-1/2"
           >
             <h2 className="mb-4 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-              Trusted by Global Companies.
+              Trusted by Companies.
             </h2>
             <p className="mx-auto lg:w-11/12">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
@@ -85,7 +85,7 @@ const FunFact = () => {
               className="animate_top text-center"
             >
               <h3 className="mb-2.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                500K
+                100K
               </h3>
               <p className="text-lg lg:text-para2">World Wide Clients</p>
             </motion.div>
@@ -108,9 +108,9 @@ const FunFact = () => {
               className="animate_top text-center"
             >
               <h3 className="mb-2.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                1M+
+                100K+
               </h3>
-              <p className="text-lg lg:text-para2">Downloads</p>
+              <p className="text-lg lg:text-para2">Training</p>
             </motion.div>
             <motion.div
               variants={{
@@ -131,9 +131,9 @@ const FunFact = () => {
               className="animate_top text-center"
             >
               <h3 className="mb-2.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                865
+                100+
               </h3>
-              <p className="text-lg lg:text-para2">Winning Award</p>
+              <p className="text-lg lg:text-para2">Company</p>
             </motion.div>
           </div>
         </div>
